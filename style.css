@@ -60,3 +60,20 @@ p{
 .logout:hover{
   background-color: orange;
 }
+.buy{
+  font-size: 25px; font-weight: bold;
+  color: #ffffff; width: 500px; top: 130px; left: 205px;
+}
+.ent{font-size: 15px; font-weight: bold;
+  color: #ffffff;  top: 230px; left: 205px;
+}
+#num{ position: absolute;
+  height: 44px;
+  width: 300px;
+  left: 205px;
+  top: 270px;
+  box-sizing: border-box;
+  }
+  ::placeholder{
+    font-weight: bold; font-size: 30px; text-align: center;
+  }
