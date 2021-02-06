@@ -5,7 +5,7 @@ body{
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
-.responsive {position: absolute; top: -50px; left: 0px;
+.responsive {position: absolute; top: 0px; left: 0px;
   max-width: 100%;
   height: auto; filter: brightness(30%);
  }
@@ -30,7 +30,33 @@ p{
   color: #8CA23B;font-size: 10px;
 }
 #navbar{
-  display: inline;
+  display:block;  
 }
-#li{position: absolute; left: 100px;
-  color: #ffffff; display: inline-block;}
+#merch{
+  position: absolute; left: 700px; top: 70px;
+  color: #ffffff; 
+  font-size: 20px;
+}
+#f{
+  position: absolute; left: 850px; top: 70px;
+  color: #ffffff; 
+  font-size: 20px;
+}
+#con{
+  position: absolute; left: 950px; top: 70px;
+  color: #ffffff; 
+  font-size: 20px;
+}
+#blo{
+  position: absolute; left: 1100px; top: 70px;
+  color: #ffffff; 
+  font-size: 20px;
+}
+.logout{
+  position: absolute; left: 1200px; top: 60px; border-radius:3px ;
+  background-color: #8CA23B; width: 200px; height: 60px; 
+  color: #ffffff;font-size: 22px; font-weight: bold; 
+}
+.logout:hover{
+  background-color: orange;
+}
