@@ -94,6 +94,9 @@ p{
   }
   section p1 {
     font-size: 40px; font-weight: bold;
-    color: #020202; width: 500px; position: absolute; top: 500px; left: 205px;   
-    
+    color: #020202; width: 500px; position: absolute; top: 500px; left: 205px; 
+  }
+  #fas{
+    position: absolute;
+    left: 205px; top: 600px; color: red;
   }
