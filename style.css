@@ -72,8 +72,15 @@ p{
   width: 300px;
   left: 205px;
   top: 270px;
-  box-sizing: border-box;
+ padding: 20px;font-size: 25px;
   }
   ::placeholder{
-    font-weight: bold; font-size: 30px; text-align: center;
+    font-weight: bold; font-size: 30px; text-align: start;
+  }
+  #button{position: absolute;
+    height: 44px;
+    width: 300px;
+    left: 205px;
+    top: 320px;
+    color:red;
   }
