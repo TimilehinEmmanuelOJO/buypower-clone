@@ -82,5 +82,18 @@ p{
     width: 300px;
     left: 205px;
     top: 320px;
-    color:red;
+    color:rgb(255, 255, 255); background-color: #8CA23B;
+    font-size: 25px;font-weight: bold;
+  }
+  #button:hover{
+    background-color: orange;
+  }
+  h2{
+    font-size: 20px; font-weight: bold;
+    color: #ffffff; width: 500px; position: absolute; top: 360px; left: 205px;   
+  }
+  section p1 {
+    font-size: 40px; font-weight: bold;
+    color: #020202; width: 500px; position: absolute; top: 500px; left: 205px;   
+    
   }
